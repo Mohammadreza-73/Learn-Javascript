@@ -6,7 +6,7 @@ function calcAge1(birthYear) {
 const age1 = calcAge1(1995);
 console.log('age1: ' + age1);
 
-// Function Expression
+// Function Expression (Anonymous)
 const calcAge2 = function (birthYear) {
     return 2023 - birthYear;
 };
